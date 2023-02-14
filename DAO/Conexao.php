@@ -1,5 +1,5 @@
 <?php
-    namespace SitePodologiaPHP\DAO\Conexao;
+    namespace SitePodologiaPHP\DAO;
 
     class Conexao{
 
